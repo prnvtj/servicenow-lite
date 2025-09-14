@@ -62,12 +62,12 @@ src/com/servicenowlite/
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/<your-username>/ServiceNow-Lite.git
+   git clone https://github.com/prnvtj/servicenow-lite.git
    ```
 2. Compile and run
 
    ```bash
-   cd ServiceNow-Lite/src
+   cd serviceNow-lite/src
    javac com/servicenowlite/Main.java
    java com.servicenowlite.Main
    ```
@@ -87,4 +87,5 @@ src/com/servicenowlite/
 I’m **Pranav Tej**, currently working as a ServiceNow developer and learning **System Design + LLD** to grow into a Software Engineer role.
 
 * GitHub: [github.com/prnvtj](https://github.com/prnvtj)
+
 
