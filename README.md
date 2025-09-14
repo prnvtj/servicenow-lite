@@ -86,5 +86,5 @@ src/com/servicenowlite/
 
 I’m **Pranav Tej**, currently working as a ServiceNow developer and learning **System Design + LLD** to grow into a Software Engineer role.
 
-* GitHub: [github.com/<your-username>](https://github.com/<your-username>)
-* LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: [github.com/prnvtj](https://github.com/prnvtj)
+
